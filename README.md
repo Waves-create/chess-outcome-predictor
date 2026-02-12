@@ -24,7 +24,7 @@ The goal is not deployment, but **data analysis, feature experimentation, and mo
 ---
 
 ## Project Structure
-
+```
 chess-outcome-predictor/  
 ├── data/  
 │   └── games.csv  
@@ -32,7 +32,7 @@ chess-outcome-predictor/
 ├── train1.py       # accuracy vs max_moves experiment  
 ├── requirements.txt  
 └── README.md 
-
+```
 ---
 
 ## Setup
